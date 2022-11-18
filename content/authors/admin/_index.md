@@ -79,4 +79,4 @@ highlight_name: true
 
 Qiuchen Zhai is a graduate student majoring in Electrical and Computer Engineering at Purdue University, co-advised by Prof. Charles A. Bouman and Prof. Gregery T. Buzzard. Her research interests include computational imaging,  computer vision and machine learning. Her current research work involves exploring and solving equilibrium solutions of incorporating image priors with computational imaging methods. Before joining the computational imaging lab, she recieved her B.S. degree from University of Electronic Science and Technology of China in 2018 and M.S. degree from The Ohio State University in 2019.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
