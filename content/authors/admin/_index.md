@@ -77,8 +77,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Qiuchen Zhai is a graduate student majoring in Electrical and Computer Engineering at Purdue University, co-advised by Prof. Charles A. Bouman and Prof. Gregery T. Buzzard. Her research interests include computational imaging,  computer vision and machine learning. Her current research work involves exploring and solving equilibrium solutions of incorporating image priors with computational imaging methods. Before joining the computational imaging lab, she recieved her B.S. degree from University of Electronic Science and Technology of China in 2018 and M.S. degree from The Ohio State University in 2019.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
