@@ -25,7 +25,7 @@ experience:
   - title: Graduate Research Intern 
     company: Los Alamos National Lab
     company_url: ''
-#    company_logo: org-gc
+    company_logo: org-gc
     location: New Mexico
     date_start: '2022-05'
     date_end: '2022-08'
