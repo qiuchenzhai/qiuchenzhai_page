@@ -25,13 +25,13 @@ experience:
   - title: Graduate Research Intern 
     company: Los Alamos National Lab
     company_url: ''
-    company_logo: co-gx
+#    company_logo: org-gc
     location: New Mexico
     date_start: '2022-05'
     date_end: '2022-08'
     description: 
         Responsibilities include:
-        
+
         * Processing raw ptychographic data
         * Developing solution and implementing algorithm to reconstruct on processed data. 
         * Deploying image priors to improve reconstruction quality.
