@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Electrical and Computer Engineering
       institution: Purdue University
-      year: - Present
+      year: 2024
     - course: M.S. in Electrical and Computer Engineering
       institution: Ohio State University
       year: 2019
