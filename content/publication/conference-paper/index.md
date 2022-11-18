@@ -28,8 +28,8 @@ doi: '10.1109/IEEECONF53345.2021.9723357'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Asilomar Conference*
-publication_short: In *55th Asilomar*
+publication: In *55th Asilomar Conference*
+publication_short: In *55th Asilomar Conference*
 
 abstract: Ptychography is a computational imaging technique using multiple, overlapping, coherently illuminated snapshots to achieve nanometer resolution by solving a nonlinear phase-field recovery problem. Ptychography is vital for imaging of manufactured nanomaterials, but existing algorithms have computational shortcomings that limit large-scale application.In this paper, we present the Projected Multi-Agent Consensus Equilibrium (PMACE) approach for solving the ptychography inversion problem. This approach extends earlier work on MACE, which formulates an inversion problem as an equilibrium among multiple agents, each acting independently to update a full reconstruction. In PMACE, each agent acts on a portion (projection) corresponding to one of the snapshots, and these updates to projections are then combined to give an update to the full reconstruction. The resulting algorithm is easily parallelized, with convergence properties inherited from convergence results associated with MACE. We apply our method on simulated data and demonstrate that it outperforms competing algorithms in both reconstruction quality and convergence speed.
 
