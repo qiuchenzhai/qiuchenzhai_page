@@ -1,3 +1,4 @@
 Qiuchen's Website
 
-Please visit [here](http://www.qiuchen-zhai.com/)
+To visit, please click [here](http://www.qiuchen-zhai.com/).
+Constructing this website is a work in progress. Let me know if you have any suggestions or questions. 
