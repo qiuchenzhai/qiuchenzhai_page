@@ -51,7 +51,7 @@ url_code: 'https://github.com/cabouman/ptycho_pmace'
 url_dataset: 'https://drive.google.com/drive/folders/1feA5LdkEjVJhqhyFRu7ErgqwKa9Nbkxp?usp=share_link'
 url_poster: 'https://engineering.purdue.edu/~bouman/publications/pdf/Asilomar2021-Qiuchen-poster.pdf'
 # url_project: 
-# url_slides: 
+url_slides: 'https://engineering.purdue.edu/~bouman/publications/pdf/Asilomar2021-Qiuchen-slides.pdf'
 # url_source: 
 url_video: 'https://youtu.be/cBpaJMESKfo'
 
@@ -67,15 +67,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
