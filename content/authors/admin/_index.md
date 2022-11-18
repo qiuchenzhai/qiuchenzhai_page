@@ -24,14 +24,14 @@ bio: My research interests include computational image processing, computer visi
 interests:
   - Computational Imaging
   - Inverse Problems
-  - Image Denoising
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Electrical and Computer Engineering
       institution: Purdue University
-      year: 2012
+      year: - Present
     - course: M.S. in Electrical and Computer Engineering
       institution: Ohio State University
       year: 2019
