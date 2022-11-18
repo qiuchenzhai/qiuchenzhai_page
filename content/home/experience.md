@@ -29,7 +29,7 @@ experience:
     location: New Mexico
     date_start: '2022-05'
     date_end: '2022-08'
-    description: 
+    description: |2-
         Responsibilities include:
 
         * Processing raw ptychographic data
