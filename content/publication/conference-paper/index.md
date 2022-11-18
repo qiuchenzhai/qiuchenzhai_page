@@ -50,8 +50,8 @@ url_pdf: 'https://arxiv.org/abs/2111.14240v2'
 url_code: 'https://github.com/cabouman/ptycho_pmace'
 url_dataset: 'https://drive.google.com/drive/folders/1feA5LdkEjVJhqhyFRu7ErgqwKa9Nbkxp?usp=share_link'
 url_poster: 'https://engineering.purdue.edu/~bouman/publications/pdf/Asilomar2021-Qiuchen-poster.pdf'
-url_project: ''
-url_slides: 'https://engineering.purdue.edu/~bouman/publications/pdf/Asilomar2021-Qiuchen-slides.pdf'
+url_project: 
+url_slides: 
 url_source: 
 url_video: 'https://youtu.be/cBpaJMESKfo'
 
